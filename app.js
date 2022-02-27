@@ -72,6 +72,5 @@ const modalFunc = (data) =>{
         <p class="text-center m-auto">For any editorial, feel free to email: abc@def.com</p>
     </div>
         `;
-
     modal.appendChild(modalDiv);
 }
